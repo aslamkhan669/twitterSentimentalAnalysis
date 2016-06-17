@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "sentimental analaysis for market research ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sofyrus",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.3.0"
+  }
+}
